@@ -33,7 +33,7 @@ For single female and male customers, a significant decrease occurred between cu
 
 •	Age Brackets:  Studies in the past have shown an increased  that exercising  for Middle Age people lowers the risk of early death, this lowered risk is a suitable explanation as to the sudden peak in the purchased of bikes for the “Middle Aged” bracket (35-56), compared to “Adult” (25-34) and “Senior” (57+).
 
-•	The analysed shows that customers who cycle for shorter distance purchased a bike compared to those customers who had to cycle 5-10 miles to arrive at their destination.
+•The analysis shows that customers who cycle for shorter distance purchased a bike compared to those customers who had to cycle 5-10 miles to arrive at their destination.
 
 The Visualization Dashboard
 
