@@ -1,4 +1,5 @@
 BIKE SALES ANALYSIS REPORT USING MICROSOFT EXCEL AND POWERPOINT 
+
 I played the role of a Junior Data Analyst at TnetPro Limited, Luton United Kingdom to analyze the dataset of Bike Sales in Europe, North America, and the Pacific regions.
  
  ![image](https://user-images.githubusercontent.com/109202217/178813003-70c85889-bba2-48f6-927c-e5e2b9e984b1.png)
