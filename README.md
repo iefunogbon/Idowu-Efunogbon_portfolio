@@ -3,18 +3,20 @@ BIKE SALES ANALYSIS REPORT USING MICROSOFT EXCEL AND POWERPOINT
 I played the role of a Junior Data Analyst at TnetPro Limited, Luton United Kingdom to analyze the dataset of Bike Sales in Europe, North America, and the Pacific regions.
  
  ![image](https://user-images.githubusercontent.com/109202217/178813003-70c85889-bba2-48f6-927c-e5e2b9e984b1.png)
-
 Image source: From the web
 
 Objectives
+
 To analyze the bike sales data and gain insight to various factors that contributed to the decision of customers who purchased bikes in Europe, North America, and Pacific Regions.
 
 Data Structure
+
 The dataset consists of 1,207 Rows and 13 Columns of Bike Sales transaction from Europe, North America, and Pacific regions. The column in the dataset includes: Customer’s ID, Marital Status, Gender, Income (USD), Numbers of Children, Educational Level, Occupation, Home Owner Status, Car Owned, Commute Distance(in miles),  Region,  Age, and  Purchased Bike (whether the customers purchased a bike or not purchased a biked – Yes or No).
 
 Data Cleaning
+
 While conducting the data cleaning, a total of 26 duplicates rows was removed which decrease the number of rows from 126  to 100 rows of purchased bike and not purchased bike transaction. The Marital Status header column was misspelt and then corrected. In addition, the Gender column M was renamed as “Male” and the F replaced as “Female.” Also, for the Marital Status column, M was renamed as “Married” while S was replaced as “Single”
-Finally, for the age column a n IF Function Statement was used to group the customers age into 3 different categories. The categories include:
+Finally, for the age column an IF Function Statement was used to group the customers age into 3 different categories. The categories include:
 “Adult” (25-34), “Middle Age” (35-56), and “Senior” (57+) with the column header being named as “Age Brackets”.
 
 Analysis and Insights
@@ -22,6 +24,7 @@ Analysis and Insights
 The analysis was conducted using Microsoft Excel functions, PivoTables and Pivortcharts.
 
 From the 1000 cleaned customers data in the 3 regions- Europe, North America, and Pacific regions, only 481 customers purchased a bike after their store visits. The following insights was acquired in the process of the analysis:
+
 •	 Occupation: The “Professional” had the highest number of purchased bikes compared to other job categories. This might be a result to  customers need to adapt cycling as a mode of exercise given to the fact that they spend majority of their time at their desk all day at the office. Other job categories such as Skilled Manual, Manual, Clerical excluding Management make customers move around frequently as part of their job responsibilities.
 
 •	Marital Status/ Gender: More married-male and single - female  customers purchased bikes compared to the married-female and single male customers. When a slicer was introduced to show how the number of children that affected purchasing decisions, purchased by married -female customers increased  as the number of children increased from 0 (no child)  to 1 child and decreased as the number of children increased while for the married – male customers, increased and decreased as the number of children increased from 0 to 3 children. The number of purchased was the same when the number of children increased from 3 to 4 children and later decreased when the children increased.
@@ -37,8 +40,6 @@ The Visualization Dashboard
 The visualization was designed using Excel and PowerPoint.
 
 ![image](https://user-images.githubusercontent.com/109202217/178812923-9c3e402a-f6cc-457f-9f8a-f5ff30696ce0.png)
-
- 
 Bike image source: From the web
 
 Recommendation
