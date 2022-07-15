@@ -8,21 +8,21 @@ I played the role of a Junior Data Analyst at TnetPro Limited, Luton United King
  ![image](https://user-images.githubusercontent.com/109202217/178813003-70c85889-bba2-48f6-927c-e5e2b9e984b1.png)
 Image source: From the web
 
-Objectives
+# Objectives
 
 To analyze the bike sales data and gain insight to various factors that contributed to the decision of customers who purchased bikes in Europe, North America, and Pacific Regions.
 
-Data Structure
+# Data Structure
 
 The dataset consists of 1,207 Rows and 13 Columns of Bike Sales transaction from Europe, North America, and Pacific regions. The column in the dataset includes: Customer’s ID, Marital Status, Gender, Income (USD), Numbers of Children, Educational Level, Occupation, Home Owner Status, Car Owned, Commute Distance(in miles),  Region,  Age, and  Purchased Bike (whether the customers purchased a bike or not purchased a biked – Yes or No).
 
-Data Cleaning
+# Data Cleaning
 
 While conducting the data cleaning, a total of 26 duplicates rows was removed which decrease the number of rows from 126  to 100 rows of purchased bike and not purchased bike transaction. The Marital Status header column was misspelt and then corrected. In addition, the Gender column M was renamed as “Male” and the F replaced as “Female.” Also, for the Marital Status column, M was renamed as “Married” while S was replaced as “Single”
 Finally, for the age column an IF Function Statement was used to group the customers age into 3 different categories. The categories include:
 “Adult” (25-34), “Middle Age” (35-56), and “Senior” (57+) with the column header being named as “Age Brackets”.
 
-Analysis and Insights
+# Analysis and Insights
 
 The analysis was conducted using Microsoft Excel functions, PivoTables and Pivortcharts.
 
