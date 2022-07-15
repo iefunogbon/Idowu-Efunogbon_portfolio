@@ -38,13 +38,13 @@ For single female and male customers, a significant decrease occurred between cu
 
 •The analysis shows that customers who cycle for shorter distance purchased a bike compared to those customers who had to cycle 5-10 miles to arrive at their destination.
 
-The Visualization Dashboard
+# The Visualization Dashboard
 
 The visualization was designed using Excel and PowerPoint.
 
 ![image](https://user-images.githubusercontent.com/109202217/178812923-9c3e402a-f6cc-457f-9f8a-f5ff30696ce0.png)
 Bike image source: Created using excel and powerpoint
 
-Recommendation
+# Recommendation
 From the analysis of customers who purchased bikes, the stores should conduct market campaigns and advertisement in these regions to drive sales for customers who did not purchased bikes  when they visited the stores.
 The marketing department should also investigate why customers visited their stores and ended not purchasing a bike.
