@@ -43,7 +43,7 @@ The Visualization Dashboard
 The visualization was designed using Excel and PowerPoint.
 
 ![image](https://user-images.githubusercontent.com/109202217/178812923-9c3e402a-f6cc-457f-9f8a-f5ff30696ce0.png)
-Bike image source: From the web
+Bike image source: Created using excel and powerpoint
 
 Recommendation
 From the analysis of customers who purchased bikes, the stores should conduct market campaigns and advertisement in these regions to drive sales for customers who did not purchased bikes  when they visited the stores.
